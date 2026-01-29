@@ -2,7 +2,7 @@
 name = "inventory-service"
 version = "0.1.0"
 description = "Inventory management API with orders and categories"
-authors = ["Your Name <your.email@example.com>"]
+authors = ["eduard <slobodyanik.ed@gmail.com>"]
 readme = "README.md"
 package-mode = false
 
